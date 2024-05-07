@@ -1,7 +1,5 @@
 # NCAA-Betting-Trends-Prediction
 
-NCAA-Betting-Trends-Prediction
-
 Project Overview
 
 This project examines historical betting trends in NCAA football games to predict outcomes and identify profitable betting strategies. By analyzing game betting percentages, odds, and game results over various seasons, the project seeks to uncover significant patterns that can inform better betting decisions.
