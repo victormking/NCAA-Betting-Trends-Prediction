@@ -42,7 +42,7 @@ Created graphical representations of trends using ggplot2 and other visualizatio
 
 ## Key Findings
 
-##Betting Patterns:
+Betting Patterns:
 Point Spread Betting: Point spread betting showed significant trends, where teams frequently beat the spread more often when they were underdogs compared to when they were favorites. This finding highlights a potential bias in bookmaker odds 
 favoring well-known teams.
 
