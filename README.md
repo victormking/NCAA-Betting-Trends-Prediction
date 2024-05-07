@@ -1,8 +1,8 @@
 # NCAA-Betting-Trends-Prediction
 
-NCAA-Betting-Trends-Prediction
-Project Overview
-This project examines historical betting trends in NCAA football games to predict outcomes and identify profitable betting strategies. By analyzing game betting percentages, odds, and game results over various seasons, the project seeks to uncover significant patterns that can inform better betting decisions.
+## Project Overview
+
+## This project examines historical betting trends in NCAA football games to predict outcomes and identify profitable betting strategies. By analyzing game betting percentages, odds, and game results over various seasons, the project seeks to uncover significant patterns that can inform better betting decisions.
 Objectives
 •	Analyze Betting Trends: Identify patterns in betting percentages and odds that correlate with game outcomes.
 •	Predictive Modeling: Develop predictive models to forecast game results based on historical betting trends.
